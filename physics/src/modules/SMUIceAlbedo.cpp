@@ -20,7 +20,7 @@ double SMUIceAlbedo::albedo(double temperature, double snowThickness)
     if (snowThickness > 0.) {
         return SNOW_ALBEDO;
     } else {
-        return ICE_ALBEDO + 0.4 * (1 - ICE_ALBEDO) * 0.17;// FIXME NextsimPhysics::i0();
+        return ICE_ALBEDO + 0.4 * (1 - ICE_ALBEDO) * 0.17; // FIXME NextsimPhysics::i0();
     }
 }
 }
