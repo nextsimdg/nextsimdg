@@ -58,7 +58,7 @@ if(USE_CLANG_FORMAT)
       clang-format ALL
       COMMAND ${CLANG_FORMAT}
       -i
-      -style=WebKit
+#      -style=WebKit
       ${ALL_CXX_SOURCE_FILES}
       )
   else()
