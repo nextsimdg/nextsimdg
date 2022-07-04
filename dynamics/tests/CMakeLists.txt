@@ -7,7 +7,7 @@ add_executable(multithreading_square multithreading_square.cpp)
 add_executable(multithreading_rectangle1 multithreading_rectangle1.cpp)
 add_executable(multithreading_rectangle2 multithreading_rectangle2.cpp)
 
-add_executable(example1 example1.cpp ../../src/Timer.cpp)
+add_executable(example1 example1.cpp ../../core/src/Timer.cpp)
 
 add_executable(example2a example2a.cpp)
 add_executable(example2b example2b.cpp)

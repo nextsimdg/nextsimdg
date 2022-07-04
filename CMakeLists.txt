@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.12)
 
 set(CMAKE_CXX_STANDARD 17)
 
-project(nextsim_dg)
+project(nextsim_dg CXX)
 
 set (NETCDF_CXX "YES")
 find_package(netCDF REQUIRED)
@@ -10,6 +10,21 @@ if ("${CMAKE_HOST_SYSTEM_NAME}" STREQUAL "Darwin")
     set(NSDG_NetCDF_Library "netcdf-cxx4")
 else()
     set(NSDG_NetCDF_Library "netcdf_c++4")
+endif()
+
+# Additional compile options
+add_compile_options(-pedantic -Wall -Wno-unknown-pragmas)
+
+# OpenMP support taken from the dynamics CMakeLists.txt
+option(WITH_THREADS "Build with support for OpenMP" OFF)
+
+find_package(OpenMP)
+if (OPENMP_FOUND)
+    if(WITH_THREADS)
+        set (CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${OpenMP_C_FLAGS}")
+        set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${OpenMP_CXX_FLAGS}")
+        set (CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} ${OpenMP_EXE_LINKER_FLAGS}")
+    endif()
 endif()
 
 # Regarding Boost.Log, if our application consists of more
@@ -31,11 +46,26 @@ find_package(Eigen3 3.3 REQUIRED)
 # target_link_directories(target PUBLIC ${netCDF_LIB_DIR})
 # target_link_libraries(target LINK_PUBLIC "${NSDG_NetCDF_Library}")
 
-# Set the location of the ipp files used by ModuleLoader for the main build
-set(ModuleLoaderIppTargetDirectory
-"${CMAKE_CURRENT_SOURCE_DIR}/core/src/modules/generated/")
+### Use clang-format
+OPTION(USE_CLANG_FORMAT "Formats the codebase" ON)
+if(USE_CLANG_FORMAT)
+  FILE(GLOB_RECURSE ALL_CXX_SOURCE_FILES core/*.cpp core/*.hpp  dynamics/*.cpp dynamics/*.hpp physics/*.cpp  physics/*.hpp)
 
-file(MAKE_DIRECTORY "${ModuleLoaderIppTargetDirectory}")
+  # Adding clang-format target if executable is found
+  find_program(CLANG_FORMAT "clang-format")
+  if(CLANG_FORMAT)
+    add_custom_target(
+      clang-format ALL
+      COMMAND ${CLANG_FORMAT}
+      -i
+      -style=WebKit
+      ${ALL_CXX_SOURCE_FILES}
+      )
+  else()
+    message(STATUS "Could not find clang-format")
+  endif()
+endif()
+
 # Set the list of components that define modules. Component subdirectories are
 # contained in this directory level and contain src/modules/ and 
 # src/modules/include/ subdirectories 
@@ -46,7 +76,7 @@ set(ModularComponents
 # Set the components which provide source or object code to the main model
 set(CodeComponents
 "physics"
-#"dynamics"
+"dynamics"
 )
 
 # Set an empty list of sources

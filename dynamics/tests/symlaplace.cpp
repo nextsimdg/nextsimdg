@@ -20,6 +20,7 @@ int WRITE_EVERY = 10000;
 constexpr double L = 512000.0;
 constexpr double eta = 1.e8;
 constexpr double rho_ice = 900;
+constexpr double sqrt2 = 0x1.6A09E667F3BCC908B2Fp0;
 
 #define EDGEDOFS(DG) ((DG == 1) ? 1 : ((DG == 3) ? 2 : 3))
 
@@ -105,7 +106,7 @@ int main()
     constexpr double rhsscale = 2.0 * eta / rho_ice;
     std::cout << "Rhs scale:\t" << rhsscale << std::endl;
 
-    constexpr double exactsolutionnorm = L / sqrt(2.0); //!< ( |u|^2 + |v|^2 )^1/2
+    constexpr double exactsolutionnorm = L / sqrt2; //!< ( |u|^2 + |v|^2 )^1/2
 
     const std::string solver = "EVP";
 

@@ -33,11 +33,13 @@ extern Timer GlobalTimer;
 }
 
 namespace ReferenceScale {
+constexpr double euler = 2.718281828459045;
+
 // Benchmark testcase from [Mehlmann / Richter, ...]
 constexpr double T = 2 * 2 * 60. * 60.; //!< Time horizon 2 days
 constexpr double L = 512000.0; //!< Size of domain !!!
 constexpr double vmax_ocean = 0.01; //!< Maximum velocity of ocean
-constexpr double vmax_atm = 30.0 / exp(1.0); //!< Max. vel. of wind
+constexpr double vmax_atm = 30.0 / euler; //!< Max. vel. of wind
 
 constexpr double rho_ice = 900.0; //!< Sea ice density
 constexpr double rho_atm = 1.3; //!< Air density
@@ -256,10 +258,12 @@ int main()
         dgtransport.step(dt_adv, A);
         dgtransport.step(dt_adv, H);
 
-	for (int i=0;i<A.rows();++i)
-	  for (int j=0;j<A.cols();++j)
-	    if (!std::isfinite(A(i,j)))
-	      {std::cerr << "NaN!" << std::endl;abort();}
+        for (int i = 0; i < A.rows(); ++i)
+            for (int j = 0; j < A.cols(); ++j)
+                if (!std::isfinite(A(i, j))) {
+                    std::cerr << "NaN!" << std::endl;
+                    abort();
+                }
 
         //! Very simple limiting (just constants)
         Nextsim::LimitMax(A, 1.0);
@@ -302,8 +306,7 @@ int main()
             //! Update
             Nextsim::GlobalTimer.start("time loop - mevp - update1");
 
-
-	    //            vx = (1.0
+            //            vx = (1.0
             //     / (ReferenceScale::rho_ice * cg_H.array() / dt_adv * (1.0 + beta) // implicit parts
             //         + cg_A.array() * ReferenceScale::F_ocean
             //             * (OX.array() - vx.array()).abs()) // implicit parts
@@ -333,7 +336,6 @@ int main()
             //             * (OX - vx).array() // cor + surface
             //         ))
             //          .matrix();
-
 
             //	    update by a loop.. implicit parts and h-dependent
 #pragma omp parallel for

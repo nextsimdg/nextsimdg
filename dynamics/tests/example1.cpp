@@ -18,7 +18,7 @@
 //#include "stopwatch.hpp"
 #include "testtools.hpp"
 
-#include "../../src/include/Timer.hpp"
+#include "../../core/src/include/Timer.hpp"
 
 /*namespace Nextsim
 {

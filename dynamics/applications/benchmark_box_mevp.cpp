@@ -36,7 +36,7 @@ namespace ReferenceScale {
 // Box-Test case from [Geosci. Model Dev., 8, 1747–1761, 2015]
 constexpr double L = 1000000.0; //!< Size of domain
 constexpr double vmax_ocean = 0.1; //!< Maximum velocity of ocean
-constexpr double vmax_atm = 30.0 / exp(1.0); //!< Max. vel. of wind
+constexpr double vmax_atm = 30.0 / RefScale::euler; //!< Max. vel. of wind
 
 constexpr double rho_ice = 900.0; //!< Sea ice density
 constexpr double rho_atm = 1.3; //!< Air density
