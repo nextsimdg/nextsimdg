@@ -1,14 +1,7 @@
 ### Subsidiary CMAKE-FILE for Nextsim-DG dynamics
-#
-# Setup compiler flags and compile definitions:
-#
-#SET(NEXTSIM_CXX_FLAGS
-#  "-std=c++11 -pedantic -Wall -Wno-unknown-pragmas -march=native" CACHE STRING "Configuration flags"
-#  )
 
-################################################## This project
 ### directory to sources
-SET (NextsimDG_DIR ${CMAKE_CURRENT_SOURCE_DIR})
+set (NextsimDG_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 
 ### directory for binaries -> per default to build
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY .)
@@ -33,14 +26,12 @@ endif()
 if (DEFINED CMAKE_CXX_FLAGS_RELEASE_INIT
    AND "${CMAKE_CXX_FLAGS_RELEASE_INIT}" STREQUAL " ${CMAKE_CXX_FLAGS_RELEASE}")
      # Overwrite the init values choosen by CMake
-#     if (CMAKE_CXX_COMPILER_ID MATCHES "GNU")
-         set(CMAKE_CXX_FLAGS_RELEASE "-O3" CACHE STRING "" FORCE)
-#     endif()
- endif()
+     set(CMAKE_CXX_FLAGS_RELEASE "-O3" CACHE STRING "" FORCE)
+endif()
 
 
 ################################################## Includes
-LIST(APPEND Nextsim_INCLUDE_DIRS "${NextsimDG_DIR}/src/include")
+list(APPEND Nextsim_INCLUDE_DIRS "${NextsimDG_DIR}/src/include")
 
 ################################################## Compile the Library
 add_subdirectory(src)
