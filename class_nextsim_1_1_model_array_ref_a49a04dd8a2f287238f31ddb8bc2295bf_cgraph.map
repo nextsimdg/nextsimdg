@@ -1,0 +1,4 @@
+<map id="Nextsim::ModelArrayRef::operator*" name="Nextsim::ModelArrayRef::operator*">
+<area shape="rect" id="node1" title="Returns a ModelArray containing the per&#45;element product of the object and the provided ModelArray." alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array_ref.html#a4f6c12f6dacb355827ec289475635d6c" title="Direct access top the underlying data array." alt="" coords="215,5,376,47"/>
+</map>

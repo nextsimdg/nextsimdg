@@ -1,0 +1,7 @@
+<map id="Nextsim::ModelArray::setDimensions" name="Nextsim::ModelArray::setDimensions">
+<area shape="rect" id="node1" title="Sets the number and size of the dimensions of this type of ModelArray." alt="" coords="5,95,147,136"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#aa285badb50b17130ee59a88e3b55b432" title="Conditionally updates the size of the object data buffer to match the class specification." alt="" coords="195,61,336,103"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_model_array.html#a48b30997649892b5849da9cf0927860f" title="Sets the number and size of the dimensions of a specified type of ModelArray." alt="" coords="195,127,336,168"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#adf6af3c14b1fee8f3e47d38422d9b66d" title="Returns the total number of elements of this type of ModelArray." alt="" coords="384,29,525,71"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_array.html#a1b240e807761e93d149cf78d03df1832" title="Returns the size of the data array of this object." alt="" coords="384,95,525,136"/>
+</map>

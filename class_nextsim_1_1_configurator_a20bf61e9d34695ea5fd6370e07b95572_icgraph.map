@@ -1,0 +1,5 @@
+<map id="Nextsim::Configurator::addStream" name="Nextsim::Configurator::addStream">
+<area shape="rect" id="node1" title="Adds a istream source of configuration data." alt="" coords="199,39,344,80"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_configurator.html#ab0148671084e12258cfc2f65c95870c4" title="Adds a std::stringstream configuration stream, wrapping all the pointer mechanics." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_configurator.html#acb93f090b7a32ba921dfbadd75887bd8" title="Adds several istream sources of configuration data." alt="" coords="5,71,151,112"/>
+</map>

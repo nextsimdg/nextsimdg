@@ -1,0 +1,4 @@
+<map id="Nextsim::ModelArray::hasDoF" name="Nextsim::ModelArray::hasDoF">
+<area shape="rect" id="node1" title="Returns whether this type of ModelArray has additional discontinuous Galerkin components." alt="" coords="195,29,336,71"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#ae0307bd7df85337e8d1548270ab38da5" title="Returns the number of discontinuous Galerkin components held in the specified type of ModelArray." alt="" coords="5,29,147,71"/>
+</map>

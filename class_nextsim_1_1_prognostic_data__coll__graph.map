@@ -1,0 +1,8 @@
+<map id="Nextsim::PrognosticData" name="Nextsim::PrognosticData">
+<area shape="rect" id="node1" title=" " alt="" coords="127,1675,293,2016"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_component.html" title=" " alt="" coords="5,1137,207,1625"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html" title="A class that holds the array data for the model." alt="" coords="35,147,177,1075"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="231,1247,400,1515"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_configured_base.html" title="A base class necessary for the tryConfigure() functions to work." alt="" coords="215,5,381,97"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="320,484,489,737"/>
+</map>

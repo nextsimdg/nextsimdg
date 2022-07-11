@@ -1,0 +1,4 @@
+<map id="Nextsim::ModelMetadata::setTime" name="Nextsim::ModelMetadata::setTime">
+<area shape="rect" id="node1" title="Sets the initial or current model time." alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="219,5,384,47"/>
+</map>

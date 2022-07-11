@@ -1,0 +1,5 @@
+<map id="Nextsim::IStructure" name="Nextsim::IStructure">
+<area shape="rect" id="node1" title="Interface class for the model structure." alt="" coords="83,5,245,229"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_dev_grid.html" title="A class to hold a grid of ElementData instances in a fixed sized square grid." alt="" coords="5,277,144,501"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_rectangular_grid.html" title=" " alt="" coords="169,292,338,487"/>
+</map>

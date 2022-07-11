@@ -1,0 +1,4 @@
+<map id="Nextsim::DevStep::init" name="Nextsim::DevStep::init">
+<area shape="rect" id="node1" title="Initializes the model, based on some environment stored in the implementing class." alt="" coords="223,5,372,32"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model.html#a0f5b5a4d2b53a04bbdc7ce3f7d0bef5d" title="The configuration function." alt="" coords="5,5,175,32"/>
+</map>

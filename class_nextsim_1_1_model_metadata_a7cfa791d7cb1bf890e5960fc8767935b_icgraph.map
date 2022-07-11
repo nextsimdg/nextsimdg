@@ -1,0 +1,8 @@
+<map id="Nextsim::ModelMetadata::time" name="Nextsim::ModelMetadata::time">
+<area shape="rect" id="node1" title="Returns the current model time." alt="" coords="495,71,660,112"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_simple_output.html#a3fc1866af8fe25aa988614ff6376b89c" title="Outputs the passed ModelState." alt="" coords="257,5,412,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_metadata.html#ac5f5b93695819aaa3762dbfaef3b01ab" title="Sets the initial or current model time." alt="" coords="252,71,417,112"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_common_restart_metadata.html#ac599dd5c9d26d0c97ad9fc098685109e" title="Writes the standard restart file metadata to a metadata node." alt="" coords="223,136,447,177"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model.html#a0f5b5a4d2b53a04bbdc7ce3f7d0bef5d" title="The configuration function." alt="" coords="5,78,175,105"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_rect_grid_i_o.html#ae9ee77d5df22cd49163ecbb1fcf8130a" title="Dumps the given ModelState to the given file path." alt="" coords="19,136,161,177"/>
+</map>

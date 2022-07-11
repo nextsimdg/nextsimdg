@@ -1,0 +1,3 @@
+<map id="Nextsim::ModelArray::nComponents" name="Nextsim::ModelArray::nComponents">
+<area shape="rect" id="node1" title="Returns the number of discontinuous Galerkin components held in this type of ModelArray." alt="" coords="5,29,147,71"/>
+</map>

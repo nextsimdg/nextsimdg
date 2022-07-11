@@ -1,0 +1,4 @@
+<map id="Nextsim::Configured::getConfiguration" name="Nextsim::Configured::getConfiguration">
+<area shape="rect" id="node1" title="Gets the value of the configuration with a given name from the default Configurator." alt="" coords="5,29,143,71"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_configured.html#adf60ef61f9ca3c5c7bda782e9fc6229c" title="Adds an option to the per&#45;class option map." alt="" coords="191,29,328,71"/>
+</map>

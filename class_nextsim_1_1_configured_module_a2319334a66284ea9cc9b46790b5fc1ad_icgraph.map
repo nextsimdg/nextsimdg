@@ -1,0 +1,4 @@
+<map id="Nextsim::ConfiguredModule::addPrefix" name="Nextsim::ConfiguredModule::addPrefix">
+<area shape="rect" id="node1" title="Transforms a module name into a configuration option name." alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_configured_module.html#a29e90d29d512bcaa265422ec2522363f" title="Parse the configuration for all of the modules defined in ModuleLoader." alt="" coords="5,5,184,47"/>
+</map>

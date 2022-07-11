@@ -1,0 +1,3 @@
+<map id="Nextsim::mkgmtime" name="Nextsim::mkgmtime">
+<area shape="rect" id="node1" title="converts the std::tm struct to a std::time_t value assuming UTC." alt="" coords="5,29,143,56"/>
+</map>

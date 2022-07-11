@@ -1,0 +1,5 @@
+<map id="Nextsim::ModelArray::zLayerIndex" name="Nextsim::ModelArray::zLayerIndex">
+<area shape="rect" id="node1" title="Special access function for ZFields, common implementation version." alt="" coords="5,75,147,116"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#a5101839eb54a5ef30c55d4f122a593d6" title="Returns a vector&lt;size_t&gt; of the size of each dimension of this type of ModelArray." alt="" coords="195,29,336,71"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#abd5f51004989a84f794d0a4561c52650" title="Returns the number of dimensions of this type of ModelArray." alt="" coords="195,119,336,160"/>
+</map>

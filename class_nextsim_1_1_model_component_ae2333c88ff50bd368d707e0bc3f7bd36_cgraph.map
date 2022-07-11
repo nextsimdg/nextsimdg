@@ -1,0 +1,14 @@
+<map id="Nextsim::ModelComponent::setOceanMask" name="Nextsim::ModelComponent::setOceanMask">
+<area shape="rect" id="node1" title="Sets the model&#45;wide land&#45;ocean mask (for HField arrays)." alt="" coords="5,300,183,341"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_component.html#ac8ca6314991e7a5bf082f5bf551205a4" title="Returns a copy of the provided ModelArray, masked according to the land&#45;ocean mask." alt="" coords="231,156,408,197"/>
+<area shape="rect" id="node10" href="$class_nextsim_1_1_model_array.html#aa285badb50b17130ee59a88e3b55b432" title="Conditionally updates the size of the object data buffer to match the class specification." alt="" coords="249,359,390,400"/>
+<area shape="rect" id="node11" href="$class_nextsim_1_1_model_array.html#adf6af3c14b1fee8f3e47d38422d9b66d" title="Returns the total number of elements of this type of ModelArray." alt="" coords="474,329,615,371"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#a5101839eb54a5ef30c55d4f122a593d6" title="Returns a vector&lt;size_t&gt; of the size of each dimension of this type of ModelArray." alt="" coords="871,96,1012,137"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_array.html#aa7339e9b3758b8f3e803c8ade5867887" title="Retuns the (enum of) the ModelArray::Type of this." alt="" coords="474,188,615,229"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_model_array.html#abd5f51004989a84f794d0a4561c52650" title="Returns the number of dimensions of this type of ModelArray." alt="" coords="871,217,1012,259"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_model_component.html#a44e2bbf5b96701cd2ac6160061ffb6df" title="Returns the ocean mask." alt="" coords="456,5,633,47"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_model_array.html#a3c12dc81eda239218e83edfd5d36fdbb" title="Special access function for ZFields." alt="" coords="474,123,615,164"/>
+<area shape="rect" id="node8" href="$class_nextsim_1_1_model_array.html#a00dcaca57d99ef9bbedd210a82fa4731" title="Returns the data at the specified one dimensional index." alt="" coords="681,123,823,164"/>
+<area shape="rect" id="node9" href="$class_nextsim_1_1_model_array.html#ac32b5069c62eb1d4f789498d0b150b98" title="Special access function for ZFields, common implementation version." alt="" coords="681,188,823,229"/>
+<area shape="rect" id="node12" href="$class_nextsim_1_1_model_array.html#a1b240e807761e93d149cf78d03df1832" title="Returns the size of the data array of this object." alt="" coords="474,395,615,436"/>
+</map>

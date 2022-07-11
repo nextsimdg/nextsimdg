@@ -1,0 +1,9 @@
+<map id="Nextsim::StructureFactory::fileFromState" name="Nextsim::StructureFactory::fileFromState">
+<area shape="rect" id="node1" title="Takes a ModelState and a template file name to write the state out to a target file path." alt="" coords="5,100,177,141"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_dev_grid.html#a3c41fb3ff99a5300907436ab55ec4c1a" title="Dumps the data to a file path." alt="" coords="225,5,421,47"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_rectangular_grid.html#acc240554f42b2dc7db00514182168548" title="Dumps the data to a file path." alt="" coords="239,71,408,112"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_dev_grid.html#a6fe62e3d12d1982cd6716d32cd7a58ab" title="Sets the pointer to the class that will perform the IO. Should be an instance of DevGridIO." alt="" coords="243,137,404,163"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_rectangular_grid.html#a820bb018dd0b73f5868489ccbfbe22e6" title="Sets the pointer to the class that will perform the IO. Should be an instance of DevGridIO." alt="" coords="239,188,408,229"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_i_dev_grid_i_o.html#ad8228e2cc802d7042756e5a5a0f207c9" title="Dumps the given ModelState to the given file path." alt="" coords="499,5,641,47"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_rectangular_grid_1_1_i_rect_grid_i_o.html#a372fab6beb175ef0d3430260b686c5d2" title="Dumps the given ModelState to the given file path." alt="" coords="469,71,671,112"/>
+</map>

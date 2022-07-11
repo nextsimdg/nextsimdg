@@ -1,0 +1,4 @@
+<map id="Nextsim::ModelArray::operator()" name="Nextsim::ModelArray::operator()">
+<area shape="rect" id="node1" title="Returns the data at the given set of indices." alt="" coords="5,29,147,71"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#a5101839eb54a5ef30c55d4f122a593d6" title="Returns a vector&lt;size_t&gt; of the size of each dimension of this type of ModelArray." alt="" coords="195,29,336,71"/>
+</map>

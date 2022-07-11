@@ -1,0 +1,5 @@
+<map id="Nextsim::ModuleSupplyAndWait" name="Nextsim::ModuleSupplyAndWait">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1533,212,1699"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_component.html" title=" " alt="" coords="8,996,209,1484"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html" title="A class that holds the array data for the model." alt="" coords="38,5,179,933"/>
+</map>

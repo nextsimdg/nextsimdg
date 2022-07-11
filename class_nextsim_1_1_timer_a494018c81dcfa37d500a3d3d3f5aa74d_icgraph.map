@@ -1,0 +1,4 @@
+<map id="Nextsim::Timer::tock" name="Nextsim::Timer::tock">
+<area shape="rect" id="node1" title="Stop the last timer to be started." alt="" coords="193,5,333,32"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_timer.html#ae724f87d1ba71e2432230811e3bf1a97" title="Stops a named timer." alt="" coords="5,5,145,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Nextsim::ModelArray::nDimensions" name="Nextsim::ModelArray::nDimensions">
+<area shape="rect" id="node1" title="Returns the number of dimensions of this type of ModelArray." alt="" coords="835,29,976,71"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_component.html#ac8ca6314991e7a5bf082f5bf551205a4" title="Returns a copy of the provided ModelArray, masked according to the land&#45;ocean mask." alt="" coords="231,29,408,71"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_array.html#ac32b5069c62eb1d4f789498d0b150b98" title="Special access function for ZFields, common implementation version." alt="" coords="645,59,787,100"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_component.html#ae2333c88ff50bd368d707e0bc3f7bd36" title="Sets the model&#45;wide land&#45;ocean mask (for HField arrays)." alt="" coords="5,29,183,71"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_model_array.html#a3c12dc81eda239218e83edfd5d36fdbb" title="Special access function for ZFields." alt="" coords="456,59,597,100"/>
+</map>

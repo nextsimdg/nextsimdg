@@ -1,0 +1,6 @@
+<map id="Nextsim::ModelArray::setData" name="Nextsim::ModelArray::setData">
+<area shape="rect" id="node1" title="Sets the value of every element in the object to the provided value." alt="" coords="195,71,336,112"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#a9e7bfe90029cb9f7512278811bcb9330" title="Copy constructor." alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#a76b68ea3ae6967acca47db1b6b7d4f1e" title="Copy assignment operator." alt="" coords="5,71,147,112"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_array.html#ad94c3fb3b502e5be039b89a25ecd8259" title="Reads and sets data from an instance of the underlying data class (Eigen::Array)." alt="" coords="5,136,147,177"/>
+</map>

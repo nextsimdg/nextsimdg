@@ -1,0 +1,3 @@
+<map id="Nextsim::ModuleSupplyAndWait::getState" name="Nextsim::ModuleSupplyAndWait::getState">
+<area shape="rect" id="node1" title="Returns a ModelState from this component at a specified level." alt="" coords="5,29,185,71"/>
+</map>

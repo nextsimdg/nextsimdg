@@ -1,0 +1,12 @@
+<map id="Nextsim::RectGridIO::dumpModelState" name="Nextsim::RectGridIO::dumpModelState">
+<area shape="rect" id="node1" title="Dumps the given ModelState to the given file path." alt="" coords="5,160,147,201"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_i_structure.html#a3a6ec493aeda20654e5b8101ce430e43" title="Returns the name of the data node." alt="" coords="240,5,373,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#a5101839eb54a5ef30c55d4f122a593d6" title="Returns a vector&lt;size_t&gt; of the size of each dimension of this type of ModelArray." alt="" coords="236,95,377,136"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_i_structure.html#ad6722122645c3189edd359689af6d0cf" title="Returns the name of the metadata node." alt="" coords="233,160,381,201"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_common_restart_metadata.html#ac599dd5c9d26d0c97ad9fc098685109e" title="Writes the standard restart file metadata to a metadata node." alt="" coords="195,291,419,332"/>
+<area shape="rect" id="node9" href="$class_nextsim_1_1_common_restart_metadata.html#acac23d06535d853768b15d4d7f46b393" title="Writes the structure type to the root of the restart file for future retrieval." alt="" coords="195,225,419,267"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_model_metadata.html#a4a4ae2da98030a0aad813f8d2c877dc5" title="Returns the string description of the model grid structure." alt="" coords="467,225,632,267"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="467,356,632,397"/>
+<area shape="rect" id="node8" href="$class_nextsim_1_1_i_structure.html#a2cbb7379198e83e5e50d125b4a366a39" title="The name of the node holding the name of the structure type processed by this class." alt="" coords="483,291,616,332"/>
+<area shape="rect" id="node10" href="$class_nextsim_1_1_i_structure.html#a9bfcd49bd510b9200b9ce367f179c3d9" title="The name of the group holding the definitive structure type." alt="" coords="477,160,622,201"/>
+</map>

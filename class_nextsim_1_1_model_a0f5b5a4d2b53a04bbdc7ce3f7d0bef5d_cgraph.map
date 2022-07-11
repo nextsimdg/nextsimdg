@@ -1,0 +1,18 @@
+<map id="Nextsim::Model::configure" name="Nextsim::Model::configure">
+<area shape="rect" id="node1" title="The configuration function." alt="" coords="5,319,175,346"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_missing_data.html#a0a84f4c8767ef9eafd74c0a6c19b0717" title="The configuration function." alt="" coords="251,12,399,53"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_configured.html#ae80fbec20e4f379dcdfce4efd1e2ddc0" title="Gets the value of the configuration with a given name from the default Configurator." alt="" coords="489,29,626,71"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_prognostic_data.html#ac86335c408d04ad2cfb8e4b5362d0d58" title="The configuration function." alt="" coords="242,129,407,171"/>
+<area shape="rect" id="node8" href="$class_nextsim_1_1_dev_step.html#affa3a69f395c91cfaa7964e6f0fa8b99" title="Initializes the model, based on some environment stored in the implementing class." alt="" coords="250,195,399,222"/>
+<area shape="rect" id="node9" href="$class_nextsim_1_1_iterator.html#a1aa9ac314b75701eb9d9ff82807fdaa3" title="Parses the four strings and sets the time parameters from them." alt="" coords="263,247,386,288"/>
+<area shape="rect" id="node10" href="$class_nextsim_1_1_prognostic_data.html#af99a582ed5f969c1a5c3f289269d7d81" title="Set the initial data of the component from the passed ModelState." alt="" coords="242,312,407,353"/>
+<area shape="rect" id="node11" href="$class_nextsim_1_1_dev_step.html#a2c517c0b82ede21e86a7eb6b3cd244c5" title="Sets the data object that will be used within the timesteps." alt="" coords="236,378,413,405"/>
+<area shape="rect" id="node12" href="$class_nextsim_1_1_i_model_step.html#a372eef1423d13713015069b8f621e5ca" title="Sets the path to the initial file for later reference." alt="" coords="253,429,396,471"/>
+<area shape="rect" id="node13" href="$class_nextsim_1_1_dev_step.html#a10037a7e8a496c563a3bbc33d66b1060" title="Sets the metadata object that will be used within the timesteps." alt="" coords="223,495,427,522"/>
+<area shape="rect" id="node14" href="$class_nextsim_1_1_model_metadata.html#ac5f5b93695819aaa3762dbfaef3b01ab" title="Sets the initial or current model time." alt="" coords="242,547,407,588"/>
+<area shape="rect" id="node16" href="$class_nextsim_1_1_structure_factory.html#adf5c8a3accf58e87f97ef81b5b6f1388" title="Returns the ModelState of the named restart file." alt="" coords="239,612,411,653"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_configured.html#adf60ef61f9ca3c5c7bda782e9fc6229c" title="Adds an option to the per&#45;class option map." alt="" coords="688,29,825,71"/>
+<area shape="rect" id="node6" href="$_configured_8hpp.html#addce5f96c514296ee85b739bbe10fa26" title="Template function for conditionally configuring references." alt="" coords="485,137,629,163"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_configured.html#a1976b952b6533bfd8624147f847ac042" title="Template function for conditionally configuring references." alt="" coords="688,129,825,171"/>
+<area shape="rect" id="node15" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="475,547,640,588"/>
+</map>

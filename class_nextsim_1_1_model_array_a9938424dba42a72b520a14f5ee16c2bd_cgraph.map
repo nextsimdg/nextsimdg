@@ -1,0 +1,6 @@
+<map id="Nextsim::ModelArray::setData" name="Nextsim::ModelArray::setData">
+<area shape="rect" id="node1" title="Sets the value of every element in the object to the provided value." alt="" coords="5,63,147,104"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#aa285badb50b17130ee59a88e3b55b432" title="Conditionally updates the size of the object data buffer to match the class specification." alt="" coords="195,63,336,104"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#adf6af3c14b1fee8f3e47d38422d9b66d" title="Returns the total number of elements of this type of ModelArray." alt="" coords="384,29,525,71"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_array.html#a1b240e807761e93d149cf78d03df1832" title="Returns the size of the data array of this object." alt="" coords="384,95,525,136"/>
+</map>

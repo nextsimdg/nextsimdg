@@ -1,0 +1,5 @@
+<map id="Nextsim::ModelArray::resize" name="Nextsim::ModelArray::resize">
+<area shape="rect" id="node1" title="Conditionally updates the size of the object data buffer to match the class specification." alt="" coords="5,63,147,104"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#adf6af3c14b1fee8f3e47d38422d9b66d" title="Returns the total number of elements of this type of ModelArray." alt="" coords="195,29,336,71"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array.html#a1b240e807761e93d149cf78d03df1832" title="Returns the size of the data array of this object." alt="" coords="195,95,336,136"/>
+</map>

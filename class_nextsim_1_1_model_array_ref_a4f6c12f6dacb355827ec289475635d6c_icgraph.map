@@ -1,0 +1,9 @@
+<map id="Nextsim::ModelArrayRef::data" name="Nextsim::ModelArrayRef::data">
+<area shape="rect" id="node1" title="Direct access top the underlying data array." alt="" coords="272,169,433,211"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array_ref.html#ab59ef1151c9d6861f647065a45ae1927" title="Cast the reference class to a real reference to the referenced ModelArray." alt="" coords="19,5,210,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model_array_ref_3_01sh_00_01_r_w_01_4.html#a8a1ed4841917c6fdb2f4b08e2982c6b7" title="Cast the reference class to a real reference to the referenced ModelArray." alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_array_ref.html#a49a04dd8a2f287238f31ddb8bc2295bf" title="Returns a ModelArray containing the per&#45;element product of the object and the provided ModelArray." alt="" coords="34,136,195,177"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_model_array_ref.html#a51785aab838c56c2689a27788d7a2a93" title="Returns a ModelArray containing the per&#45;element sum of the object and the provided ModelArray." alt="" coords="34,201,195,243"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_model_array_ref.html#ab7a79ec131c71f4b3700c1b0d98c694a" title="Returns a ModelArray containing the per&#45;element difference between the object and the provided ModelA..." alt="" coords="34,267,195,308"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_model_array_ref.html#abded47195c2edda0cf76b375ff9df69e" title="Returns a ModelArray containing the per&#45;element ratio between the object and the provided ModelArray." alt="" coords="34,332,195,373"/>
+</map>

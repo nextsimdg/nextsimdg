@@ -1,0 +1,4 @@
+<map id="Nextsim::IDevGridIO::getModelState" name="Nextsim::IDevGridIO::getModelState">
+<area shape="rect" id="node1" title="Generates the ModelState based on the data in the given file." alt="" coords="236,5,377,47"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_dev_grid.html#ab950c3a5e86f2cf53280a62d7678c16f" title="Dumps the data to a file path." alt="" coords="5,5,188,47"/>
+</map>

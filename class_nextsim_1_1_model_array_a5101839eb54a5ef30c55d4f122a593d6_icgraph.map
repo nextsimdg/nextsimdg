@@ -1,0 +1,11 @@
+<map id="Nextsim::ModelArray::dimensions" name="Nextsim::ModelArray::dimensions">
+<area shape="rect" id="node1" title="Returns a vector&lt;size_t&gt; of the size of each dimension of this type of ModelArray." alt="" coords="835,159,976,200"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_model_array.html#a395c692d6ee43cc6c4ec6d9b4fa72d24" title="Accesses the full Discontinuous Galerkin coefficient vector at the specified location." alt="" coords="645,5,787,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_rect_grid_i_o.html#ae9ee77d5df22cd49163ecbb1fcf8130a" title="Dumps the given ModelState to the given file path." alt="" coords="645,71,787,112"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_model_component.html#ac8ca6314991e7a5bf082f5bf551205a4" title="Returns a copy of the provided ModelArray, masked according to the land&#45;ocean mask." alt="" coords="231,224,408,265"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_model_array.html#ac2f3f25494b97fb3cd3b283468ad5feb" title="Returns the data at the given set of indices." alt="" coords="645,188,787,229"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_model_array.html#a3a89a5dcb942a4f9255c83780a67c066" title="Returns the data at the indices." alt="" coords="645,253,787,295"/>
+<area shape="rect" id="node8" href="$class_nextsim_1_1_model_array.html#ac32b5069c62eb1d4f789498d0b150b98" title="Special access function for ZFields, common implementation version." alt="" coords="645,319,787,360"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_model_component.html#ae2333c88ff50bd368d707e0bc3f7bd36" title="Sets the model&#45;wide land&#45;ocean mask (for HField arrays)." alt="" coords="5,224,183,265"/>
+<area shape="rect" id="node9" href="$class_nextsim_1_1_model_array.html#a3c12dc81eda239218e83edfd5d36fdbb" title="Special access function for ZFields." alt="" coords="456,253,597,295"/>
+</map>

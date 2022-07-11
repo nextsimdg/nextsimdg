@@ -1,0 +1,3 @@
+<map id="Nextsim::Timer::report" name="Nextsim::Timer::report">
+<area shape="rect" id="node1" title="Prints the status of a named timer to an ostream." alt="" coords="5,29,153,56"/>
+</map>

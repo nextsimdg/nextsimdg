@@ -1,0 +1,4 @@
+<map id="Nextsim::Iterator::NullIterant" name="Nextsim::Iterator::NullIterant">
+<area shape="rect" id="node1" title="A simple Iterant that does nothing." alt="" coords="5,277,128,369"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_iterator_1_1_iterant.html" title="A base class for classes that specify what happens during one timestep." alt="" coords="5,5,128,229"/>
+</map>

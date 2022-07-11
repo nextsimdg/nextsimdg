@@ -1,0 +1,5 @@
+<map id="Nextsim::Configured::getConfiguration" name="Nextsim::Configured::getConfiguration">
+<area shape="rect" id="node1" title="Gets the value of the configuration with a given name from the default Configurator." alt="" coords="419,35,556,76"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_missing_data.html#a0a84f4c8767ef9eafd74c0a6c19b0717" title="The configuration function." alt="" coords="223,5,371,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_model.html#a0f5b5a4d2b53a04bbdc7ce3f7d0bef5d" title="The configuration function." alt="" coords="5,42,175,69"/>
+</map>

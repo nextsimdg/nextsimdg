@@ -1,0 +1,12 @@
+<map id="Nextsim::Logged::log" name="Nextsim::Logged::log">
+<area shape="rect" id="node1" title="Logs a message at the given log level, or default to level::NOTICE." alt="" coords="241,208,384,235"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_logged.html#ac24598e41a8573714b1f16bda3947da7" title="Logs a message at level::ALERT. Probably not needed for a geophysical model." alt="" coords="24,5,175,32"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_logged.html#a8e8e9706ea27f5ffecbfc04acdb4eaea" title="Logs a message at level::CRITICAL, intended for critical situations, including detection of problems ..." alt="" coords="18,56,181,83"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_logged.html#a82a5a4e9b299929c87d9af8f1ddd7631" title="Logs a message at level::DEBUG, intended for code debugging." alt="" coords="19,107,179,133"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_logged.html#ae6ad79c9ad8192746e63eebf2e0b87c1" title="Logs a message at level::EMERGENCY. Probably not needed for a geophysical model." alt="" coords="5,157,193,184"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_logged.html#a6d5282ed62f4a71ec50bcec53b15cdde" title="Logs a message at level::ERROR, intended for when the model reaches an unrecoverable state." alt="" coords="24,208,175,235"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_logged.html#ae4f864a23a8eb5bbe9c744e3c73bd283" title="Logs a message at level::INFO, intended for informational messages that would not normally be shown." alt="" coords="26,259,173,285"/>
+<area shape="rect" id="node8" href="$class_nextsim_1_1_logged.html#acccdf959a15de1529c65c777a9f3c5aa" title="Logs a message at level::NOTICE, intended for messages that would appear during normal execution." alt="" coords="19,309,179,336"/>
+<area shape="rect" id="node9" href="$class_nextsim_1_1_logged.html#adbb5e51e1eefe30b5fa4c4b29f681151" title="Logs a message at level::TRACE, intended for tracing code execution." alt="" coords="22,360,177,387"/>
+<area shape="rect" id="node10" href="$class_nextsim_1_1_logged.html#a47e0290689b49aeb064caadce060e6c6" title="Logs a message at level::WARNING, intended for abnormal conditions that do not affect the continuing ..." alt="" coords="14,411,185,437"/>
+</map>

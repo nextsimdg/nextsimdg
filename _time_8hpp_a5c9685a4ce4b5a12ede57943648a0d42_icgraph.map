@@ -1,0 +1,3 @@
+<map id="Nextsim::timeFromISO" name="Nextsim::timeFromISO">
+<area shape="rect" id="node1" title="Returns a std::time_t from a given ISO date string of a specific format." alt="" coords="5,29,160,56"/>
+</map>

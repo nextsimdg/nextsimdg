@@ -1,0 +1,5 @@
+<map id="Nextsim::MissingData::configure" name="Nextsim::MissingData::configure">
+<area shape="rect" id="node1" title="The configuration function." alt="" coords="5,29,153,71"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_configured.html#ae80fbec20e4f379dcdfce4efd1e2ddc0" title="Gets the value of the configuration with a given name from the default Configurator." alt="" coords="201,29,339,71"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_configured.html#adf60ef61f9ca3c5c7bda782e9fc6229c" title="Adds an option to the per&#45;class option map." alt="" coords="387,29,524,71"/>
+</map>
